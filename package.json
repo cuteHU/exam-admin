@@ -1,6 +1,7 @@
 {
     "name": "exam-admin",
     "version": "0.1.0",
+    "author": "coderHqr <541707796@qq.com>",
     "private": true,
     "scripts": {
         "serve": "vue-cli-service serve",
